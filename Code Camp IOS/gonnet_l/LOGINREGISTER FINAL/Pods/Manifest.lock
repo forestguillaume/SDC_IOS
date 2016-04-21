@@ -1,0 +1,13 @@
+PODS:
+  - GoogleMaps (1.13.0)
+  - PayPal-iOS-SDK (2.11.5)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - PayPal-iOS-SDK (~> 2.11.1)
+
+SPEC CHECKSUMS:
+  GoogleMaps: 7a6caeb8336d7cb42982e969fc9b1b20a889fe79
+  PayPal-iOS-SDK: e5b0cf6c38866a47dad92f97df92848a90d3b858
+
+COCOAPODS: 0.39.0
